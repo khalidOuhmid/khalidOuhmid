@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Khalid Ouhmid</h1>
-![Header](github-header-image.png)
+![Header](/github-header-image.png)
 - 👨‍🎓 Bachelor of technology **year 2** in university of Bordeaux **
 - 🌱 I’m currently learning **Frameworks and programing**
 
