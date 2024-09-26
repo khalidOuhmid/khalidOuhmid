@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Khalid Ouhmid</h1>
-<img align= "top" alt ="Coding" width="400" src="https://sukhbinder.wordpress.com/wp-content/uploads/2022/01/snow_banner_o.gif">
+![Header](./your-header-image-name.png)
 - 👨‍🎓 Bachelor of technology **year 2** in university of Bordeaux **
 - 🌱 I’m currently learning **Frameworks and programing**
 
