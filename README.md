@@ -1,7 +1,7 @@
-<h1 align="center">Hey 👋, I'm Khalid Ouhmid</h1>
-![Header](./github-header-image.png)
-- 👨‍🎓 Bachelor of technology **year 2** in university of Bordeaux **
-- 🌱 I’m currently learning **Frameworks and programing**
+<h1 align="center">Hey 👋, I'm Khalid Ouhmid</h1> <p align="center"> <img src="https://github.com/khalidOuhmid/khalidOuhmid/raw/main/github-header-image.png" alt="Header Image" /> </p>
+
+    👨‍🎓 I'm currently in my second year pursuing a Bachelor's of Technology at University of Bordeaux
+    🌱 I’m currently learning Frameworks and Programming
 
 <h3 align="left">Connect with me:</h3>
 
