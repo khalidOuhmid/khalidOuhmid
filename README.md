@@ -2,6 +2,7 @@
 <p align="center">
     <img src="https://github.com/khalidOuhmid/khalidOuhmid/raw/main/github-header-image.png" alt="Header Image" />
 </p>
+Hello, I'm Khalid, a software/web development student at the IUT of Bordeaux, currently pursuing a Bachelor's degree in Computer Science. I enjoy working with languages like Java, C#, and SQL.
 
 🎓 **Currently pursuing a Bachelor's in Technology at the University of Bordeaux (Year 2)**  
 🌱 **Expanding my skills in frameworks and programming**  
