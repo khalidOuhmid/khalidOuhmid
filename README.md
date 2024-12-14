@@ -7,7 +7,7 @@
 🎓 **Currently pursuing a Bachelor's in Technology at the University of Bordeaux (Year 2)**  
 🌱 **Expanding my skills in frameworks and programming**  
 💡 Passionate about problem-solving, software development, and continuous learning
-
+⚙️ **Currently learning machine learning in C++**
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
