@@ -82,10 +82,3 @@
 - Created interactive data visualizations with Matplotlib
 - Increased user engagement by **50%** through intuitive UI
 
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200" alt="Coding Animation"/>
-  <p>Let's build something amazing together! 👨💻</p>
-</div>
-```
