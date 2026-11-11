@@ -31,4 +31,4 @@ TypeScript · Python · AWS · Terraform · GitLab CI · GitHub Actions · Docke
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/khalid-ouhmid-062830329/) · [khalidouhmid.com](https://khalidouhmid.com) · [khalidouhmid.pro@gmail.com](mailto:khalidouhmid.pro@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/khalid-ouhmid-062830329/) · [khalidouhmid.com](https://khalidouhmid.com)
